@@ -10,7 +10,7 @@ struct AmericanoApp: App {
             Button(action: {
                 caffeinateManager.toggleCaffeinate()
             }) {
-                Text(caffeinateManager.isActive ? "Melatonin" : "Ammericano")
+                Text(caffeinateManager.isActive ? "Melatonin" : "Americano")
             }
             
             Divider()

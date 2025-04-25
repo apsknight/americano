@@ -3,6 +3,13 @@
 A simple macOS menu bar app that controls the caffeinate command. When activated, it prevents your Mac from sleeping, dimming the display, or starting the screensaver.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Swift](https://github.com/apsknight/americano/actions/workflows/swift.yml/badge.svg)](https://github.com/apsknight/americano/actions/workflows/swift.yml)
+
+## Screenshot
+
+![Americano App Screenshot](screenshots/americano_screenshot.png)
+
+*The Americano app in the macOS menu bar, showing both inactive and active states.*
 
 ## Motivation
 
