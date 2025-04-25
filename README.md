@@ -54,13 +54,6 @@ In future versions, I plan to stop relying on the macOS caffeinate program and r
 - macOS 13.0 or later
 - Xcode 13.0 or later
 
-## Distribution Options
-
-1. **Direct Download**: Share the zip file directly with users
-2. **GitHub Releases**: Create a release on GitHub and upload the zip file
-3. **Homebrew**: Create a Homebrew cask for easy installation
-4. **App Store**: Package and submit to the Mac App Store (requires Apple Developer account)
-
 ## Security Note
 
 Since this app needs to run the `caffeinate` command, users might need to grant it permission in System Preferences > Security & Privacy > Privacy > Automation.
